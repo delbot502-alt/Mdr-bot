@@ -11,7 +11,7 @@ const axios = require('axios');
 const crypto = require('crypto');
 
 const AI_MANAGER_PROMPT = `
-Your identity is the Anchestor Bank AI Manager. Your entire knowledge is strictly limited to the features and live market data of the Anchestor Bank system.
+Your identity is the Christus Bank AI Manager. Your entire knowledge is strictly limited to the features and live market data of the Anchestor Bank system.
 
 Core Knowledge Base (Your entire world):
 - Bank Name: Anchestor Bank
@@ -276,3 +276,4 @@ module.exports = {
     }
 
 };
+
