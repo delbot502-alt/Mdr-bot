@@ -1,4 +1,3 @@
-
 const moment = require("moment-timezone");
 
 module.exports = {
@@ -6,7 +5,7 @@ module.exports = {
 		name: "bank",
 		aliases: [],
 		version: "2.4.71",
-		author: "ST BOT",
+		author: "Christus",
 		countDown: 5,
 		role: 0,
 		description: {
